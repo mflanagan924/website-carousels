@@ -1,0 +1,55 @@
+/* external css: flickity.css */
+
+* {
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+body { font-family: sans-serif; }
+
+.gallery {
+  background: #EEE;
+
+}
+
+.gallery-cell {
+  width: 66%;
+  height: 400px;
+  margin-right: 10px;
+  background: #8C8;
+  max-width: 800px;
+  min-width: 375px;
+}
+
+
+
+.gallery-cell img {
+  height: 100%;
+  width: 100%;
+}
+
+/* cell number */
+.gallery-cell:before {
+  display: block;
+  text-align: center;
+  line-height: 400px;
+  color: white;
+}
+
+.flickity-page-dots {
+  top: 370px;
+}
+
+/* white circles */
+.flickity-page-dots .dot {
+  width: 12px;
+  height: 12px;
+  opacity: 1;
+  background: transparent;
+  border: 2px solid white;
+}
+/* fill-in selected dot */
+.flickity-page-dots .dot.is-selected {
+  background: red;
+  border: 2px solid red;
+}
