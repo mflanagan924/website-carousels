@@ -11,13 +11,13 @@ A website using carousels to show images. In addtion, it is responsive and works
 
 ## Demo
 
-View project demo at [https://mflanagan924.github.io/generic-website/](https://mflanagan924.github.io/generic-website/).
+View project demo at [https://mflanagan924.github.io/website-carousels/](https://mflanagan924.github.io/website-carousels/).
 
 ## Preview
 
 Homepage
 
-<img src="https://raw.githubusercontent.com/mflanagan924/generic-website/main/Preview.PNG"></img>
+<img src=""></img>
 
 ## Instructions
 
